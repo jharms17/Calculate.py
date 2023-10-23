@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+[default]
+aws_access_key_id = AKIAQYLPMN5HNY4M23HB
+aws_secret_access_key = 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
+output = json
+region = us-east-2
+
 # C extensions
 *.so
 
